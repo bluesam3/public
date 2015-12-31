@@ -1,0 +1,15 @@
+td.left, td.right
+{
+	background-color: white;
+}
+td.centre
+{
+	background-color: #5599ff;
+	text-align: center;
+	padding: 3px;
+}
+td,tr,table
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
